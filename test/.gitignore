@@ -1,0 +1,8 @@
+../SpringBoot/
+	../autologin/
+	../springtBoot/
+	../springtestapi/
+	.gitignore
+	.idea/workspace.xml
+	src/main/java/MainApplication.java_bk
+	target/exe.command_bk
